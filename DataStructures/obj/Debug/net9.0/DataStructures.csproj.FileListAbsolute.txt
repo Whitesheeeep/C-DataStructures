@@ -98,3 +98,4 @@ d:\DataStructures\DataStructures\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform
 d:\DataStructures\DataStructures\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 d:\DataStructures\DataStructures\obj\Debug\net9.0\DataStructures.csproj.AssemblyReference.cache
 d:\DataStructures\DataStructures\obj\Debug\net9.0\DataStru.B3CA62B8.Up2Date
+D:\DataStructures\DataStructures\obj\Debug\net9.0\DataStructures.sourcelink.json
