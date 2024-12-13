@@ -53,7 +53,7 @@ namespace DataStructures
 
         public bool Contains(T item)
         {
-            throw new NotImplementedException();
+            return IndexOf(item) != -1;
         }
 
         public T? GetElement(int index)
