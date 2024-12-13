@@ -1,9 +1,5 @@
 /.editorconfig
 /.vscode
-DataStructures/bin/Debug/net9.0/*.dll
-DataStructures/bin/Debug/net9.0/*.txt
-DataStructures/bin/Debug/net9.0/*.exe
-DataStructures/bin/Debug/net9.0/*.pdb
-DataStructures/bin/Debug/net9.0/*.tmp
+DataStructures/bin/Debug/net9.0/
 bin/
 obj/
