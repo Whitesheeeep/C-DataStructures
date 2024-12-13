@@ -1,5 +1,5 @@
 /.editorconfig
 /.vscode
 DataStructures/bin/Debug/net9.0/
-bin/
-obj/
+DataStructures/bin/
+DataStructures/obj/
